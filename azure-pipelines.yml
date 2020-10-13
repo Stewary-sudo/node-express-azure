@@ -16,7 +16,7 @@ steps:
 
 - script: |
     npm test
-  displayName: 'npm test'
+  displayName: 'npm test1'
 
 - task: ArchiveFiles@2
   displayName: 'Archive files'
